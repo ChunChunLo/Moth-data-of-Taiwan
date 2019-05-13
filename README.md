@@ -4,7 +4,7 @@
 **Moth data :** EnjoyMothforPBI20180809.xlsx
     >>>190028筆紀錄  
 **Moth list :** Moth checklist.xlsx  
-**Grid :** 台灣本島以及離島澎金馬(含東沙) 1 km^2 陸域網格 (g1km_epsg4326)  
+**Grid :** 台灣本島以及離島澎金馬(含東沙) 1 km<sup>2</sup> 陸域網格 (g1km_epsg4326)  
 
 # MaxEnt  
 1. SDM 針對 2010-2019期間紀錄  
